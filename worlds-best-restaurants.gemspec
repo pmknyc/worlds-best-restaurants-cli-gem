@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.license     = 'MIT'
   s.executables << 'worlds-best-restaurants'
 
-  s.add_development_dependency "bundler", "~> 1.10"
+  s.add_development_dependency "bundler", "~> 2.1"
   s.add_development_dependency "rake", "~> 10.0"
   s.add_development_dependency "rspec", ">= 0"
   s.add_development_dependency "nokogiri", ">= 0"
